@@ -1,0 +1,5 @@
+pragma: 2
+include: 20
+define: 6
+char: 0
+int: 0
